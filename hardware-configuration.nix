@@ -37,45 +37,12 @@
       options = [ "zfsutil" ];
     };
 
-  fileSystems."/virt_disks" =
-    { device = "zitrus/vmimages";
-      fsType = "zfs";
-      options = [ "zfsutil" ];
-    };
-
   fileSystems."/boot" =
     { device = "/dev/disk/by-id/nvme-CT2000T500SSD5_234544EAAB41-part1";
       fsType = "vfat";
     };
 
-  swapDevices = [{
-    device = "/dev/disk/by-id/nvme-CT2000T500SSD5_234544EAAB41-part2";
-    randomEncryption = true;
-   }];
-  
-  boot.zfs.extraPools = [ "zdata" ];
-  
-  fileSystems."/silizium/data_root" = {
-    device = "silizium:/zpool3/encrypt/files/data_root/";
-    fsType = "nfs";
-    options = [ "x-systemd.automount" "noauto" "x-systemd.idle-timeout=60" ];
-  };
-
-  fileSystems."/silizium/docker_home" = {
-    device = "silizium:/zpool2/encrypt/docker_data/";
-    fsType = "nfs";
-    options = [ "x-systemd.automount" "noauto" "x-systemd.idle-timeout=60" ];
-  };
-
-  # Enables DHCP on each ethernet and wireless interface. In case of scripted networking
-  # (the default) this is the recommended approach. When using systemd-networkd it's
-  # still possible to use this option, but it's recommended to use it in conjunction
-  # with explicit per-interface declarations with `networking.interfaces.<interface>.useDHCP`.
   networking.useDHCP = lib.mkDefault true;
-  # networking.interfaces.docker0.useDHCP = lib.mkDefault true;
-  # networking.interfaces.eno1.useDHCP = lib.mkDefault true;
-  # networking.interfaces.tailscale0.useDHCP = lib.mkDefault true;
-  # networking.interfaces.virbr0.useDHCP = lib.mkDefault true;
 
   nixpkgs.hostPlatform = lib.mkDefault "x86_64-linux";
   hardware.cpu.amd.updateMicrocode = lib.mkDefault config.hardware.enableRedistributableFirmware;
