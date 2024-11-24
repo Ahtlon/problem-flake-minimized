@@ -1,0 +1,342 @@
+[2024-11-24 23:42:19.841] Config:226	- Checking for app specific config file...
+[2024-11-24 23:42:19.841] wini_parse:167	- No config file found at /home/atlan/.local/share/Steam/steamapps/common/Resonite/opencomposite.ini
+[2024-11-24 23:42:19.841] CheckAppEnabled:59	- [once] Launcher configuration not yet supported on Linux
+[2024-11-24 23:42:19.841] VR_InitInternal2:223	- [once] Initializing OpenComposite - revision (unknown-revision)
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_binding_modification
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_composition_layer_cylinder
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_composition_layer_depth
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_composition_layer_equirect2
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_convert_timespec_time
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_locate_spaces
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_maintenance1
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_opengl_enable
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_opengl_es_enable
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_swapchain_usage_input_attachment_bit
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_visibility_mask
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_vulkan_enable
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_vulkan_enable2
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_KHR_vulkan_swapchain_format_list
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_dpad_binding
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_eye_gaze_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_hand_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_hand_tracking
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_hp_mixed_reality_controller
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_local_floor
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_samsung_odyssey_controller
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_BD_controller_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_FB_display_refresh_rate
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_FB_touch_controller_pro
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_FB_touch_controller_proximity
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_META_touch_controller_plus
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_ML_ml2_controller_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MND_headless
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MND_swapchain_usage_input_attachment_bit
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MSFT_unbounded_reference_space
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_OPPO_controller_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXTX_overlay
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_HTC_vive_cosmos_controller_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_HTC_vive_focus3_controller_interaction
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_ball_on_a_stick_controller
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_egl_enable
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_force_feedback_curl
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_hydra
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_system_buttons
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_MNDX_xdev_space
+[2024-11-24 23:42:20.054] CreateOpenXRBackend:149	- Extension: XR_EXT_debug_utils
+[2024-11-24 23:42:20.055] CreateOpenXRBackend:154	- Num layers available: 0 
+[2024-11-24 23:42:20.055] GetXRAppName:59	- Setting application name to OpenComposite_wine64-preloader
+[2024-11-24 23:42:20.069] parseExtensionsStr:14	- Str: VK_KHR_external_fence_capabilities VK_KHR_external_memory_capabilities VK_KHR_external_semaphore_capabilities VK_KHR_get_physical_device_properties2
+[2024-11-24 23:42:20.069] parseExtensionsStr:30	- Add extension: VK_KHR_external_fence_capabilities
+[2024-11-24 23:42:20.069] parseExtensionsStr:30	- Add extension: VK_KHR_external_memory_capabilities
+[2024-11-24 23:42:20.069] parseExtensionsStr:30	- Add extension: VK_KHR_external_semaphore_capabilities
+[2024-11-24 23:42:20.069] parseExtensionsStr:30	- Add extension: VK_KHR_get_physical_device_properties2
+[2024-11-24 23:42:20.084] parseExtensionsStr:14	- Str: VK_KHR_dedicated_allocation VK_KHR_external_fence VK_KHR_external_memory VK_KHR_external_semaphore VK_KHR_get_memory_requirements2 VK_KHR_image_format_list VK_KHR_external_memory_fd VK_KHR_external_semaphore_fd VK_KHR_external_fence_fd
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_dedicated_allocation
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_fence
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_memory
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_semaphore
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_get_memory_requirements2
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_image_format_list
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_memory_fd
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_semaphore_fd
+[2024-11-24 23:42:20.084] parseExtensionsStr:30	- Add extension: VK_KHR_external_fence_fd
+[2024-11-24 23:42:20.242] SetupSession:335	- Started OpenXR session on runtime 'Monado: Valve Index', hand tracking supported: 0
+[2024-11-24 23:42:20.242] PumpEvents:756	- Switch to OpenXR state 1
+[2024-11-24 23:42:20.242] PumpEvents:756	- Switch to OpenXR state 2
+[2024-11-24 23:42:20.242] PumpEvents:760	- Hit ready state, begin session...
+[2024-11-24 23:42:20.259] GetStringTrackedDeviceProperty:335	- Soft Abort triggered (in non-debug mode, continuing - this will only print once): unknown string property - dev: 0, prop: 1001
+[2024-11-24 23:42:20.273] CheckOrInitCompositors:189	- Recreating OpenXR session for application graphics API
+[2024-11-24 23:42:20.273] ShutdownSession:367	- Session Exit state has not been reached yet, waiting 250ms ...
+[2024-11-24 23:42:20.523] PumpEvents:756	- Switch to OpenXR state 3
+[2024-11-24 23:42:20.523] PumpEvents:756	- Switch to OpenXR state 6
+[2024-11-24 23:42:20.523] PumpEvents:756	- Switch to OpenXR state 1
+[2024-11-24 23:42:20.523] PumpEvents:756	- Switch to OpenXR state 8
+[2024-11-24 23:42:20.523] PumpEvents:778	- Exiting
+[2024-11-24 23:42:20.525] find_queue_family_and_queue_idx:163	- number of queue families is 6
+[2024-11-24 23:42:20.525] find_queue_family_and_queue_idx:166	- queue family 0 has 16 queues
+[2024-11-24 23:42:20.525] find_queue_family_and_queue_idx:171	- Got desired queue: 0 0
+[2024-11-24 23:42:20.527] SetupSession:335	- Started OpenXR session on runtime 'Monado: Valve Index', hand tracking supported: 0
+[2024-11-24 23:42:20.527] PumpEvents:756	- Switch to OpenXR state 1
+[2024-11-24 23:42:20.527] PumpEvents:756	- Switch to OpenXR state 2
+[2024-11-24 23:42:20.527] PumpEvents:760	- Hit ready state, begin session...
+[2024-11-24 23:42:20.568] CopyToSwapchain:119	- Generating new swap chain
+[2024-11-24 23:42:23.753] CopyToSwapchain:119	- Generating new swap chain
+[2024-11-24 23:42:23.759] PumpEvents:756	- Switch to OpenXR state 3
+[2024-11-24 23:42:23.759] PumpEvents:756	- Switch to OpenXR state 4
+[2024-11-24 23:42:23.759] PumpEvents:756	- Switch to OpenXR state 5
+[2024-11-24 23:42:23.759] QueryForInteractionProfile:1094	- Creating infoset
+[2024-11-24 23:42:29.572] SetActionManifestPath:359	- Loading manifest file '/home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/actions.json'
+[2024-11-24 23:42:29.572] MaybeRestartForInputs:1078	- Restarting session for inputs...
+[2024-11-24 23:42:29.574] ShutdownSession:367	- Session Exit state has not been reached yet, waiting 250ms ...
+[2024-11-24 23:42:29.685] PumpEvents:756	- Switch to OpenXR state 4
+[2024-11-24 23:42:29.685] PumpEvents:756	- Switch to OpenXR state 3
+[2024-11-24 23:42:29.685] PumpEvents:756	- Switch to OpenXR state 6
+[2024-11-24 23:42:29.685] PumpEvents:756	- Switch to OpenXR state 1
+[2024-11-24 23:42:29.685] PumpEvents:756	- Switch to OpenXR state 8
+[2024-11-24 23:42:29.685] PumpEvents:778	- Exiting
+[2024-11-24 23:42:29.690] SetupSession:335	- Started OpenXR session on runtime 'Monado: Valve Index', hand tracking supported: 0
+[2024-11-24 23:42:29.690] PumpEvents:756	- Switch to OpenXR state 1
+[2024-11-24 23:42:29.690] PumpEvents:756	- Switch to OpenXR state 2
+[2024-11-24 23:42:29.690] PumpEvents:760	- Hit ready state, begin session...
+[2024-11-24 23:42:29.690] MaybeRestartForInputs:1080	- Session restart successful!
+[2024-11-24 23:42:29.691] SetActionManifestPath:398	- Parsing actions...
+[2024-11-24 23:42:29.691] SetActionManifestPath:485	- Parsing action sets...
+[2024-11-24 23:42:29.691] SetActionManifestPath:594	- Loading known bindings...
+[2024-11-24 23:42:29.691] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/application_menu/click to /user/hand/left/input/menu/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/application_menu/click to /user/hand/right/input/menu/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/application_menu/click to /user/hand/left/input/menu/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/application_menu/click to /user/hand/right/input/menu/click for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/htc/vive_controller
+[2024-11-24 23:42:29.691] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/thumbstick/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/thumbstick for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick/touch to /user/hand/left/input/thumbstick/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/thumbstick/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/thumbstick for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick/touch to /user/hand/right/input/thumbstick/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/oculus/touch_controller from action /actions/generic/in/actionmenu, skipping
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/thumbstick/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/thumbstick for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/joystick/touch to /user/hand/left/input/thumbstick/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/thumbstick/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/thumbstick for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/joystick/touch to /user/hand/right/input/thumbstick/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/grip/pull to /user/hand/left/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/grip/pull to /user/hand/right/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/x/click to /user/hand/right/input/x/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.691] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/x/click for profile /interaction_profiles/oculus/touch_controller from action /actions/oculustouch/in/button_xa, skipping
+[2024-11-24 23:42:29.691] TranslateAction:34	- Translated path /user/hand/right/input/x/touch to /user/hand/right/input/x/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/x/touch for profile /interaction_profiles/oculus/touch_controller from action /actions/oculustouch/in/button_xa_touch, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/oculus/touch_controller from action /actions/oculustouch/in/button_yb, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/y/touch to /user/hand/right/input/y/touch for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/touch for profile /interaction_profiles/oculus/touch_controller from action /actions/oculustouch/in/button_yb_touch, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/system/click to /user/hand/left/input/system/click for profile /interaction_profiles/oculus/touch_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/system/click for profile /interaction_profiles/oculus/touch_controller from action /actions/oculustouch/in/start, skipping
+[2024-11-24 23:42:29.692] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trackpad/click to /user/hand/left/input/trackpad/touch for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trackpad/click to /user/hand/right/input/trackpad/touch for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/force to /user/hand/left/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/force to /user/hand/right/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/touch to /user/hand/left/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/touch to /user/hand/right/input/squeeze/value for profile /interaction_profiles/valve/index_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/touch to /user/hand/left/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/touch to /user/hand/right/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/application_menu/click to /user/hand/left/input/menu/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/application_menu/click to /user/hand/right/input/menu/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/touch to /user/hand/left/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller from action /actions/windowsmr/in/trigger_hair, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/touch to /user/hand/right/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/touch for profile /interaction_profiles/microsoft/motion_controller from action /actions/windowsmr/in/trigger_hair, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/application_menu/click to /user/hand/left/input/menu/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/application_menu/click to /user/hand/right/input/menu/click for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/thumbstick for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/thumbstick for profile /interaction_profiles/microsoft/motion_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/touch to /user/hand/left/input/trigger/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/touch to /user/hand/right/input/trigger/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/thumbstick/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/thumbstick for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick/touch to /user/hand/left/input/thumbstick/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/thumbstick/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/generic/in/touchingaxis, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/thumbstick/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/thumbstick for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick/touch to /user/hand/right/input/thumbstick/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/thumbstick/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/generic/in/touchingaxis, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/generic/in/actionmenu, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/trigger_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/trigger_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/thumbstick/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/thumbstick for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/joystick_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/thumbstick/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/thumbstick for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.692] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/joystick_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.692] TranslateAction:34	- Translated path /user/hand/left/input/grip/pull to /user/hand/left/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/pull to /user/hand/right/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/grip/touch to /user/hand/left/input/squeeze/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/squeeze/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/hpreverb/in/grip_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/squeeze/value for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/touch to /user/hand/right/input/squeeze/touch for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/squeeze/touch for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/hpreverb/in/grip_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/x/click to /user/hand/right/input/x/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/x/click for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/hpreverb/in/button_xa, skipping
+[2024-11-24 23:42:29.693] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/button_xa_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/hp/mixed_reality_controller from action /actions/hpreverb/in/button_yb, skipping
+[2024-11-24 23:42:29.693] LoadBindingsSet:819	- WARNING: Action '/actions/hpreverb/in/button_yb_touch' (from binding file /home/atlan/.local/share/Steam/steamapps/common/Resonite/Resonite_Data/StreamingAssets/SteamVR/bindings_mixedreality_hpcontroller.json) does not exist in manifest, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/application_menu/click to /user/hand/left/input/menu/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/application_menu/click to /user/hand/right/input/menu/click for profile /interaction_profiles/hp/mixed_reality_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/select/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/pull for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/strength, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/touch to /user/hand/left/input/trigger/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/touch for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/select/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/pull for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/strength, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/touch to /user/hand/right/input/trigger/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/touch for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/touchingstrength, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/joystick/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actionsecondary, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/joystick for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/axis, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick/touch to /user/hand/left/input/joystick/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick/touch for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/touchingaxis, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/joystick/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actionsecondary, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/joystick for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/axis, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick/touch to /user/hand/right/input/joystick/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick/touch for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/touchingaxis, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/grip/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/grip/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actiongrab, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/grip/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/grip/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actiongrab, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/y/click to /user/hand/left/input/y/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/y/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actionmenu, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/khr/simple_controller from action /actions/generic/in/actionmenu, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/click to /user/hand/left/input/select/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/pull to /user/hand/left/input/trigger/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/pull for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/trigger, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/trigger/touch to /user/hand/left/input/trigger/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/trigger/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/trigger_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/click to /user/hand/right/input/select/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/pull to /user/hand/right/input/trigger/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/pull for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/trigger, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/trigger/touch to /user/hand/right/input/trigger/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/trigger/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/trigger_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick/click to /user/hand/left/input/joystick/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick_click, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick to /user/hand/left/input/joystick for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/joystick/touch to /user/hand/left/input/joystick/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/joystick/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick/click to /user/hand/right/input/joystick/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick_click, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick to /user/hand/right/input/joystick for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/joystick/touch to /user/hand/right/input/joystick/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/joystick/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/joystick_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/grip/pull to /user/hand/left/input/grip/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/grip/pull for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/grip, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/pull to /user/hand/right/input/grip/pull for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/grip/pull for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/grip, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/grip/click to /user/hand/left/input/grip/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/grip/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/grip_click, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/grip/click to /user/hand/right/input/grip/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/grip/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/grip_click, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/x/click to /user/hand/right/input/x/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/x/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/x/touch to /user/hand/right/input/x/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/x/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/y/click to /user/hand/right/input/y/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/y/touch to /user/hand/right/input/y/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/y/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/a/click to /user/hand/right/input/a/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/a/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/a/touch to /user/hand/right/input/a/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/a/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/b/click to /user/hand/right/input/b/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/b/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/right/input/b/touch to /user/hand/right/input/b/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/right/input/b/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/x/click to /user/hand/left/input/x/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/x/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/x/touch to /user/hand/left/input/x/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/x/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_xa_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/y/click to /user/hand/left/input/y/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/y/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/y/touch to /user/hand/left/input/y/touch for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/y/touch for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/button_yb_touch, skipping
+[2024-11-24 23:42:29.693] TranslateAction:34	- Translated path /user/hand/left/input/system/click to /user/hand/left/input/system/click for profile /interaction_profiles/khr/simple_controller
+[2024-11-24 23:42:29.693] LoadBindingsSet:839	- WARNING: Built invalid input path /user/hand/left/input/system/click for profile /interaction_profiles/khr/simple_controller from action /actions/oculustouch/in/start, skipping
+[2024-11-24 23:42:29.693] LoadBindingsSet:766	- Loading bindings for /interaction_profiles/htc/vive_tracker_htcx
+[2024-11-24 23:42:29.728] GetBoolTrackedDeviceProperty:263	- Soft Abort triggered (in non-debug mode, continuing - this will only print once): unknown bool property - dev: 0, prop: 1011
+[2024-11-24 23:42:31.030] GetFloatTrackedDeviceProperty:272	- Soft Abort triggered (in non-debug mode, continuing - this will only print once): unknown float property - dev: 0, prop: 1012
+[2024-11-24 23:42:31.536] CopyToSwapchain:119	- Generating new swap chain
+[2024-11-24 23:42:31.544] CopyToSwapchain:119	- Generating new swap chain
+[2024-11-24 23:42:31.694] PumpEvents:756	- Switch to OpenXR state 3
+[2024-11-24 23:42:31.694] PumpEvents:756	- Switch to OpenXR state 4
+[2024-11-24 23:42:31.694] PumpEvents:756	- Switch to OpenXR state 5
