@@ -1,0 +1,304 @@
+11:04:06.631 ( -1 FPS)	[1] Detecting output device
+11:04:07.172 ( -1 FPS)	Autodetected device: SteamVR
+11:04:07.173 ( -1 FPS)	[2] Creating FrooxEngineRunner
+11:04:07.189 ( -1 FPS)	Supported Experimental Texture Formats for Sample: R8G8B8A8_SRGB, R8_UNorm, R8G8_UNorm, R8G8B8A8_UNorm, R16_UNorm, R16_SFloat, R16G16_SFloat, R16G16B16A16_SFloat, R32_SFloat, R32G32_SFloat, R32G32B32_SFloat, R32G32B32A32_SFloat, B8G8R8A8_SRGB, B8G8R8A8_UNorm, B4G4R4A4_UNormPack16, B5G6R5_UNormPack16, E5B9G9R9_UFloatPack32, RGBA_DXT1_SRGB, RGBA_DXT1_SRGB, RGBA_DXT1_UNorm, RGBA_DXT1_UNorm, RGBA_DXT3_SRGB, RGBA_DXT3_UNorm, RGBA_DXT5_SRGB, RGBA_DXT5_UNorm, R_BC4_UNorm, RG_BC5_UNorm, RGB_BC6H_UFloat, RGBA_BC7_SRGB, RGBA_BC7_UNorm
+11:04:07.189 ( -1 FPS)	[3] Initializing Engine Runner
+11:04:07.189 ( -1 FPS)	Microphone permission authorized
+11:04:07.189 ( -1 FPS)	External storage read permission authorized
+11:04:07.189 ( -1 FPS)	External storage write permission authorized
+11:04:07.190 ( -1 FPS)	DeviceName: Screen
+11:04:10.515 ( -1 FPS)	DeviceName: SteamVR
+11:04:10.526 ( -1 FPS)	AppPath: Z:\home\atlan\.local\share\Steam\steamapps\common\Resonite
+DataPath: C:/users/steamuser/AppData/LocalLow/Yellow Dog Man Studios/Resonite
+CachePath: C:/users/steamuser/Temp/Yellow Dog Man Studios/Resonite
+11:04:10.546 ( -1 FPS)	Initializing App: Beta 2024.11.19.479
+Platform: Windows
+HeadDevice: SteamVR
+IsAOT: False
+OS: Windows 10  (10.0.19043) 64bit
+CPU: AMD Ryzen 9 7900X 12-Core Processor 
+GPU: NVIDIA GeForce RTX 3090
+PhysicalCores: 
+MemoryBytes: 61,94 GB
+VRAMBytes: 24,24 GB
+MaxTextureSize: 16384
+IsGPUTexturePOTByteAligned: True
+UsingLinearSpace: True
+XR Device Name: OpenVR
+XR Device Model: 
+StereoRenderingMode: SinglePass
+Max GC Generation: 0, IsLittleEndian: True
+System.Numerics.Vectors HW accelerated: False, Vector<float>.Count: 4
+Brotli native encoding/decoding supported: True
+11:04:10.546 ( -1 FPS)	Supported Texture Formats: Alpha8, R8, RGB24, ARGB32, RGBA32, BGRA32, RGB565, RGBAHalf, RHalf, RGHalf, RGBAFloat, RFloat, RGFloat, BC1, BC3, BC4, BC5, BC6H, BC7
+11:04:10.547 ( -1 FPS)	[4] Processing startup commands...
+11:04:10.549 ( -1 FPS)	Detected Wine version: 9.0
+11:04:10.550 ( -1 FPS)	[5] Scanning locales...
+11:04:10.553 ( -1 FPS)	Available locales: cs, de, en, en-gb, eo, es, et, fi, fr, hu, is, ja, ko, nl, no, pl, pt-br, ru, sv, th, tr, uk, zh-cn, zh-tw
+11:04:10.559 ( -1 FPS)	[6] Loading Config.json...
+11:04:10.559 ( -1 FPS)	[7] Computing compatibility hash...
+11:04:10.560 ( -1 FPS)	Engine WebProxy initialization failed.
+11:04:10.560 ( -1 FPS)	[8] Initializing FrooxEngine...
+11:04:11.121 ( -1 FPS)	FreeImage Version: 3.18.1
+11:04:11.121 ( -1 FPS)	BepuPhysics Version: 2.4.0.2-ydm-0.1.6
+11:04:11.124 ( -1 FPS)	FreeType Version: 2.10.4
+11:04:11.124 ( -1 FPS)	Opus Version: libopus unknown
+11:04:11.153 ( -1 FPS)	Supported 3D model formats: meshx, 3d, 3ds, 3mf, ac, ac3d, acc, amf, ase, ask, assbin, b3d, blend, bsp, bvh, cob, csm, dae, dxf, enff, fbx, glb, gltf, hmp, ifc, ifczip, iqm, irr, irrmesh, lwo, lws, lxo, md2, md3, md5anim, md5camera, md5mesh, mdc, mdl, mesh, mesh.xml, mot, ms3d, ndo, nff, obj, off, ogex, pk3, ply, pmx, prj, q3o, q3s, raw, scn, sib, smd, step, stl, stp, ter, uc, vta, x, x3d, x3db, xgl, xml, zae, zgl
+11:04:11.154 ( -1 FPS)	Supported point cloud formats: pts, las, laz
+11:04:11.154 ( -1 FPS)	Supported image formats: bmp, ico, jpg, jif, jpeg, jpe, jng, koa, iff, lbm, mng, pbm, pcd, pcx, pgm, png, ppm, ras, tga, targa, tif, tiff, wap, wbmp, wbm, psd, psb, cut, xbm, xpm, dds, gif, hdr, g3, sgi, rgb, rgba, bw, exr, j2k, j2c, jp2, pfm, pct, pict, pic, 3fr, arw, bay, bmq, cap, cine, cr2, crw, cs1, dc2, dcr, drf, dsc, dng, erf, fff, ia, iiq, k25, kc2, kdc, mdc, mef, mos, mrw, nef, nrw, orf, pef, ptx, pxn, qtk, raf, raw, rdc, rw2, rwl, rwz, sr2, srf, srw, sti, x3f, webp, jxr, wdp, hdp
+11:04:11.154 ( -1 FPS)	Supported audio formats: wav, wave, flac, fla, ogg, aiff, aif, aifc
+11:04:11.154 ( -1 FPS)	Supported video formats: mp4, mpeg, avi, mov, mpg, mkv, flv, webm, mts, 3gp, bik, m2v, m2s, wmv, m3u8, m3u, pls, ogv, m4a, mp3, mpeg3, aac, ac3, aif, aiff, ape, au, it, mka, mod, mp1, mp2, opus, s3m, sid, w64, wma, xm, nsf, nsfe, gbs, vgm, vgz, spc, gym
+11:04:11.154 ( -1 FPS)	Supported font formats: ttf, otf, ttc, otc, woff
+11:04:11.154 ( -1 FPS)	Supported document formats: pdf
+11:04:11.154 ( -1 FPS)	Supported subtitle formats: srt, sub, sub, ssa, ttml, vtt
+11:04:11.194 ( -1 FPS)	Scanning assemblies
+11:04:11.495 ( -1 FPS)	Data Model Assembly: FrooxEngine.Store, Type Count: 1 (total: 104, Compatibility Hash: K22/sKfODKjKTdTi7M/GnQ==, Type: Core)
+11:04:11.497 ( -1 FPS)	Data Model Assembly: SkyFrost.Base.Models, Type Count: 4 (total: 199, Compatibility Hash: pi+qiFhdImZ42rvy8ybJnQ==, Type: Core)
+11:04:11.512 ( -1 FPS)	Data Model Assembly: UnityFrooxEngineRunner, Type Count: 35 (total: 140, Compatibility Hash: CCgq7HyxYBNJm5+blIBCNg==, Type: Optional)
+11:04:11.532 ( -1 FPS)	Data Model Assembly: Elements.Assets, Type Count: 85 (total: 442, Compatibility Hash: kSofWz90Hn+yOSPxSjVXFA==, Type: Core)
+11:04:11.541 ( -1 FPS)	Data Model Assembly: SkyFrost.Base, Type Count: 3 (total: 424, Compatibility Hash: te30htqkPqTW/nEKuspZsA==, Type: Core)
+11:04:11.554 ( -1 FPS)	Data Model Assembly: Elements.Core, Type Count: 51 (total: 561, Compatibility Hash: grK75k26/pAHONhmVQ4SvQ==, Type: Core)
+11:04:11.596 ( -1 FPS)	Data Model Assembly: Assembly-CSharp, Type Count: 9 (total: 1476, Compatibility Hash: DPKY3qt0kYgQcXLnwAGoAg==, Type: UserspaceCore)
+11:04:11.699 ( -1 FPS)	Data Model Assembly: ProtoFlux.Nodes.FrooxEngine, Type Count: 155 (total: 791, Compatibility Hash: AZwrIVhAr+DJ9kosHmizsg==, Type: Core)
+11:04:13.445 ( -1 FPS)	Data Model Assembly: ProtoFluxBindings, Type Count: 6064 (total: 6170, Compatibility Hash: iMqUNb0zMdqu/kiClPysFw==, Type: Core)
+11:04:13.491 ( -1 FPS)	Data Model Assembly: ProtoFlux.Nodes.Core, Type Count: 10 (total: 2277, Compatibility Hash: XxMkLAc6ulemxNEOJo7IOQ==, Type: Core)
+11:04:13.732 ( -1 FPS)	Data Model Assembly: FrooxEngine, Type Count: 2393 (total: 10619, Compatibility Hash: IUnKv9Q7/aYymT9q0h7Xvg==, Type: Core)
+11:04:14.600 ( -1 FPS)	[9] Initializing InputInterface...
+11:04:14.628 ( -1 FPS)	New setting type registered: FrooxEngine.GeneralControlsSettings
+11:04:14.630 ( -1 FPS)	New setting type registered: FrooxEngine.GeneralHapticsSettings
+11:04:14.630 ( -1 FPS)	New setting type registered: FrooxEngine.GeneralVRSettings
+11:04:14.631 ( -1 FPS)	New setting type registered: FrooxEngine.UserMetricsSettings
+11:04:14.642 ( -1 FPS)	[10] Initializing LocalDB...
+11:04:14.645 ( -1 FPS)	[11] Initializing Local Data
+11:04:14.645 ( -1 FPS)		
+11:04:14.649 ( -1 FPS)	MachineID: 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:14.649 ( -1 FPS)	[12] Loading LiteDB database
+11:04:14.649 ( -1 FPS)		
+11:04:15.046 ( -1 FPS)	[13] Configuring LiteDB database
+11:04:15.046 ( -1 FPS)		
+11:04:15.242 ( -1 FPS)	[14] Processing LocalDB export
+11:04:15.243 ( -1 FPS)	[15] Initializing WorkProcessor...
+11:04:15.283 ( -1 FPS)	Initialized WorkProcessor. Background Workers: 24, Priority Workers: 23
+11:04:15.284 ( -1 FPS)	[16] Initializing AudioSystem...
+11:04:15.292 ( -1 FPS)	AudioSystem SampleRate: 48000, BufferLength: 1024, NumBuffers: 4
+11:04:15.294 ( -1 FPS)	New setting type registered: FrooxEngine.AudioInputDeviceSettings
+11:04:15.295 ( -1 FPS)	New setting type registered: FrooxEngine.AudioOutputDeviceSettings
+11:04:15.295 ( -1 FPS)	New setting type registered: FrooxEngine.AudioVolumeSettings
+11:04:15.295 ( -1 FPS)	New setting type registered: FrooxEngine.AudioAccessibilitySettings
+11:04:15.296 ( -1 FPS)	New setting type registered: FrooxEngine.AudioInputFilteringSettings
+11:04:15.296 ( -1 FPS)	New setting type registered: FrooxEngine.VoiceSettings
+11:04:15.296 ( -1 FPS)	[17] Initializing GlobalCoroutineManager...
+11:04:15.313 ( -1 FPS)	[18] Initializing WorldManager...
+11:04:15.321 ( -1 FPS)	[19] Initializing NetworkManager...
+11:04:15.322 ( -1 FPS)	New setting type registered: FrooxEngine.RealtimeNetworkingSettings
+11:04:15.322 ( -1 FPS)	New setting type registered: FrooxEngine.RelaySettings
+11:04:15.323 ( -1 FPS)	[20] Initializing SecurityManager...
+11:04:15.324 ( -1 FPS)	New setting type registered: FrooxEngine.HostAccessSettings
+11:04:15.324 ( -1 FPS)	[21] Initializing PlatformInterface...
+11:04:15.325 ( -1 FPS)		Discord
+11:04:15.342 ( -1 FPS)	Exception initializing connector: FrooxEngine.Interfacing.DiscordConnector
+DiscordGameSDKWrapper.ResultException: InternalError
+  at DiscordGameSDKWrapper.Discord..ctor (System.Int64 clientId, System.UInt64 flags) [0x00327] in <b7bc4445f67b4b1f98d8bf0545869644>:0 
+  at FrooxEngine.Interfacing.DiscordConnector+<Initialize>d__36.MoveNext () [0x00029] in <eb42c407d1bc4c52b776b38545869aeb>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+  at FrooxEngine.PlatformInterface+<Initialize>d__12.MoveNext () [0x000e4] in <eb42c407d1bc4c52b776b38545869aeb>:0 
+11:04:15.342 ( -1 FPS)		Steam
+11:04:15.347 ( -1 FPS)	Local User SteamID: 76561198113028286
+11:04:15.348 ( -1 FPS)	Steam Voice Initialized
+11:04:15.349 ( -1 FPS)	SteamAPI initialized
+11:04:15.350 ( -1 FPS)	New setting type registered: FrooxEngine.SteamIntegrationSettings
+11:04:15.350 ( -1 FPS)		Windows
+11:04:15.350 ( -1 FPS)	Initializing system helper at: Z:\home\atlan\.local\share\Steam\steamapps\common\Resonite\RuntimeData\SystemHelper
+11:04:15.351 ( -1 FPS)	System Helper Executable: Z:\home\atlan\.local\share\Steam\steamapps\common\Resonite\RuntimeData\SystemHelper\SystemHelperServer.exe
+11:04:15.725 ( -1 FPS)	System Helper initialized
+11:04:15.725 ( -1 FPS)	New setting type registered: WindowsSettings
+11:04:15.726 ( -1 FPS)	Supported network protocols: lnl-nat, lnl, res-steam, tcp
+11:04:15.726 ( -1 FPS)	[22] Initializing SkyFrost Interface...
+11:04:15.810 ( -1 FPS)	Error computing UID:
+ERROR:
+System.Management.ManagementException: Error code: 0x80041002
+  at System.Management.ManagementException.ThrowWithExtendedInfo (System.Management.ManagementStatus errorCode) [0x0003f] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at System.Management.PropertyData.RefreshPropertyInfo () [0x00046] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at System.Management.PropertyData..ctor (System.Management.ManagementBaseObject parent, System.String propName) [0x0001b] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at System.Management.PropertyDataCollection.get_Item (System.String propertyName) [0x0000e] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at System.Management.ManagementBaseObject.GetPropertyValue (System.String propertyName) [0x00034] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at System.Management.ManagementBaseObject.get_Item (System.String propertyName) [0x00000] in <e99f867a854c4a8785f0cd91452aa6b2>:0 
+  at (wrapper remoting-invoke-with-check) System.Management.ManagementBaseObject.get_Item(string)
+  at Hardware.Info.Windows.HardwareInfoRetrieval.GetCpuList (System.Boolean includePercentProcessorTime) [0x00396] in <69a084936033498b82e5bc05abbb5e04>:0 
+  at Hardware.Info.HardwareInfo.RefreshCPUList (System.Boolean includePercentProcessorTime) [0x00000] in <69a084936033498b82e5bc05abbb5e04>:0 
+  at SkyFrost.Base.UID.Compute () [0x0001a] in <ba5aa4497ab24c119059477d9c123912>:0 
+  at SystemHelperServer.SystemHelper.Main (System.String[] args) [0x002dc] in <7ffd78d6b8e449e9a1b34c4b756a2e89>:0 
+11:04:15.815 ( -1 FPS)	Exception computing UID, using fallback.
+System.NotImplementedException: The method or operation is not implemented.
+  at Hardware.Info.Windows.HardwareInfoRetrieval..ctor (System.Nullable`1[T] enumerationOptionsTimeout) [0x0003d] in <69a084936033498b82e5bc05abbb5e04>:0 
+  at Hardware.Info.HardwareInfo..ctor (System.Boolean useAsteriskInWMI, System.Nullable`1[T] timeoutInWMI) [0x000b7] in <69a084936033498b82e5bc05abbb5e04>:0 
+  at SkyFrost.Base.UID.Compute () [0x00014] in <ba5aa4497ab24c119059477d9c123912>:0 
+  at FrooxEngine.Engine.<InitializeSkyFrost>b__339_3 () [0x0003c] in <eb42c407d1bc4c52b776b38545869aeb>:0 
+11:04:15.818 ( -1 FPS)	Proxy configuration for skyfrost not found or failed to initialize.
+11:04:15.818 ( -1 FPS)	HttpClient AutomaticDecompressionSupported: True
+11:04:15.847 ( -1 FPS)	New setting type registered: FrooxEngine.MessagingPrivacySettings
+11:04:15.848 ( -1 FPS)	New setting type registered: FrooxEngine.OnlineStatusSettings
+11:04:15.849 ( -1 FPS)	[23] Initializing AssetManager...
+11:04:15.858 ( -1 FPS)	New setting type registered: FrooxEngine.AssetGatherSettings
+11:04:15.862 ( -1 FPS)	Graphics Device Type: Direct3D11
+11:04:15.884 ( -1 FPS)	New setting type registered: FrooxEngine.TextureQualitySettings
+11:04:15.884 ( -1 FPS)	[24] Initializing RecordManager...
+11:04:15.885 ( -1 FPS)	[25] Initializing SessionAnnouncer...
+11:04:15.942 ( -1 FPS)	[26] FrooxEngine Initialization Finished
+11:04:15.943 ( -1 FPS)	FrooxEngine Initialized in 5416,4764 ms
+11:04:15.943 ( -1 FPS)	Starting search for GigglePucks
+11:04:15.951 ( -1 FPS)	[27] Registering drivers
+11:04:15.958 ( -1 FPS)	SteamVR Driver: Registering Events
+11:04:15.981 ( -1 FPS)	Initializing SteamVR
+11:04:16.241 ( -1 FPS)	Tracking system name: oculus, serial number: <unknown>, model number: TrackedProp_UnknownProperty, Type: oculus, Manufacturer: Oculus, WirelessDongle: TrackedProp_UnknownProperty, IsWireless: False, Using native support: True
+11:04:16.241 ( -1 FPS)	SteamVR Driver: Registering Inputs
+11:04:16.241 ( -1 FPS)	SteamVR Driver: Initialization Finished
+11:04:16.243 ( -1 FPS)	New setting type registered: FrooxEngine.GamepadSettings
+11:04:16.243 ( -1 FPS)	Initializing CSCore Audio Input Driver
+11:04:16.256 ( -1 FPS)	DefaultCapture: PulseAudio Input, ID: {0.0.1.00000000}.{25DA76D0-033C-4235-9002-19F48894AC6F}
+11:04:16.256 ( -1 FPS)	DefaultOutput: PulseAudio Output, ID: {0.0.0.00000000}.{FD47D9CC-4218-4135-9CE2-0C195C87405B}
+11:04:16.259 ( -1 FPS)	Initialized Audio Input MMDevice Monitor of GA102 High Definition Audio Controller, ID: {0.0.1.00000000}.{011887F1-D0D1-4BDC-9650-6692C15C20B0}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.259 ( -1 FPS)	Initialized Audio Input MMDevice Monitor of Family 17h/19h HD Audio Controller, ID: {0.0.1.00000000}.{1A13A910-5A0E-4602-9816-E70A30D1851A}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.260 ( -1 FPS)	Initialized Audio Input MMDevice Valve VR Radio & HMD Mic Mono, ID: {0.0.1.00000000}.{24A7C344-1083-4759-AC34-C208932DBE5D}, Format: ChannelsAvailable: 1|SampleRate: 48000|Bps: 96000|BlockAlign: 2|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontCenter, Default: False
+11:04:16.260 ( -1 FPS)	Initialized Audio Input MMDevice PulseAudio Input, ID: {0.0.1.00000000}.{25DA76D0-033C-4235-9002-19F48894AC6F}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: True
+11:04:16.260 ( -1 FPS)	Initialized Audio Input MMDevice Family 17h/19h HD Audio Controller Analog Stereo, ID: {0.0.1.00000000}.{286CAB7C-79F9-4AF1-81AA-3860744BC0E1}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.261 ( -1 FPS)	Initialized Audio Input MMDevice Monitor of E30 Pro, ID: {0.0.1.00000000}.{3AF2F01E-AEE4-4488-B97B-0E8910007974}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.261 ( -1 FPS)	Initialized Audio Input MMDevice Monitor of Rembrandt Radeon High Definition Audio Controller, ID: {0.0.1.00000000}.{3C0A7975-B5D8-487D-8863-60DA54702094}, Format: ChannelsAvailable: 8|SampleRate: 48000|Bps: 768000|BlockAlign: 16|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, SpeakerFrontCenter, SpeakerLowFrequency, SpeakerBackLeft, SpeakerBackRight, SpeakerFrontLeftOfCenter, SpeakerFrontRightOfCenter, Default: False
+11:04:16.261 ( -1 FPS)	Initialized Audio Input MMDevice Monitor of Rembrandt Radeon High Definition Audio Controller, ID: {0.0.1.00000000}.{CFE92809-C228-4774-8D2A-886A37D04FC5}, Format: ChannelsAvailable: 8|SampleRate: 48000|Bps: 768000|BlockAlign: 16|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, SpeakerFrontCenter, SpeakerLowFrequency, SpeakerBackLeft, SpeakerBackRight, SpeakerFrontLeftOfCenter, SpeakerFrontRightOfCenter, Default: False
+11:04:16.262 ( -1 FPS)	Initialized Audio Input MMDevice GA102 High Definition Audio Controller Digital Stereo (HDMI 3), ID: {0.0.0.00000000}.{2D115741-7D91-48E4-B7A7-C30AB4439AB2}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.273 ( -1 FPS)	Initialized Audio Input MMDevice Rembrandt Radeon High Definition Audio Controller Pro, ID: {0.0.0.00000000}.{65CD827C-84ED-4B72-B66E-BC09E7CC5744}, Format: ChannelsAvailable: 8|SampleRate: 48000|Bps: 768000|BlockAlign: 16|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, SpeakerFrontCenter, SpeakerLowFrequency, SpeakerBackLeft, SpeakerBackRight, SpeakerFrontLeftOfCenter, SpeakerFrontRightOfCenter, Default: False
+11:04:16.273 ( -1 FPS)	Initialized Audio Input MMDevice Family 17h/19h HD Audio Controller Digital Stereo (IEC958), ID: {0.0.0.00000000}.{6B4656AE-73A7-4C93-BF97-3DE68CE1D6A6}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.274 ( -1 FPS)	Initialized Audio Input MMDevice E30 Pro, ID: {0.0.0.00000000}.{83DC0108-5691-4122-878D-A84B1AD4F6DE}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: False
+11:04:16.274 ( -1 FPS)	Initialized Audio Input MMDevice Rembrandt Radeon High Definition Audio Controller Pro 7, ID: {0.0.0.00000000}.{99053EA3-7E16-4976-84D4-9D1DD891922F}, Format: ChannelsAvailable: 8|SampleRate: 48000|Bps: 768000|BlockAlign: 16|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, SpeakerFrontCenter, SpeakerLowFrequency, SpeakerBackLeft, SpeakerBackRight, SpeakerFrontLeftOfCenter, SpeakerFrontRightOfCenter, Default: False
+11:04:16.275 ( -1 FPS)	Initialized Audio Input MMDevice PulseAudio Output, ID: {0.0.0.00000000}.{FD47D9CC-4218-4135-9CE2-0C195C87405B}, Format: ChannelsAvailable: 2|SampleRate: 48000|Bps: 192000|BlockAlign: 4|BitsPerSample: 16|Encoding: Extensible|SubFormat: 00000001-0000-0010-8000-00aa00389b71|ChannelMask: SpeakerFrontLeft, SpeakerFrontRight, Default: True
+11:04:16.291 ( -1 FPS)	New setting type registered: FrooxEngine.LeapMotionSettings
+11:04:16.318 ( -1 FPS)	New setting type registered: FrooxEngine.ViveHandTrackingSettings
+11:04:16.320 ( -1 FPS)	Initializing HP Omnicept Glia...
+11:04:16.326 ( -1 FPS)	Initializing bHaptics...
+11:04:16.331 ( -1 FPS)	[28] Setting up global settings
+11:04:16.331 ( -1 FPS)	New setting type registered: FrooxEngine.ResolutionSettings
+11:04:16.332 ( -1 FPS)	New setting type registered: FrooxEngine.RenderingQualitySettings
+11:04:16.332 ( -1 FPS)	New setting type registered: FrooxEngine.DesktopRenderSettings
+11:04:16.332 ( -1 FPS)	[29] Setting up Userspace
+11:04:16.351 ( -1 FPS)	New setting type registered: FrooxEngine.DebugSettings
+11:04:17.334 ( -1 FPS)	Starting running world: 
+11:04:17.334 ( -1 FPS)	[30] Initialization done
+11:04:17.357 (  0 FPS)	Updated: 01.01.0001 00:00:00 -> 26.11.2024 10:04:16
+11:04:17.367 (  0 FPS)	Updated:  -> Atlan
+11:04:17.367 (  0 FPS)	Updated:  -> 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:17.395 (  0 FPS)	Device Activity Level changed from k_EDeviceActivityLevel_Unknown to k_EDeviceActivityLevel_UserInteraction
+11:04:17.668 (  0 FPS)	Running default bootstrap
+11:04:17.669 (  0 FPS)	BOOTSTRAP: Running userspace bootstrap
+11:04:17.681 (  0 FPS)	BOOTSTRAP: Processing launch arguments
+11:04:17.682 (  0 FPS)	BOOTSTRAP: Checking auto-login
+11:04:17.687 (  0 FPS)	New setting type registered: FrooxEngine.CustomizationSettings
+11:04:17.769 (  0 FPS)	New setting type registered: FrooxEngine.UserRestrictionsSettings
+11:04:17.776 (  0 FPS)	User Joined Userspace. Username: Atlan, UserID: , AllocID: 0, AllocIDstart: 1,  MachineID: 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:17.794 (  0 FPS)	New setting type registered: FrooxEngine.MediaPrivacySettings
+11:04:17.864 (  0 FPS)	New setting type registered: FrooxEngine.PostProcessingSettings
+11:04:18.142 (  2 FPS)	BOOTSTRAP: Setting up settings
+11:04:18.145 (  2 FPS)	Loading local settings
+11:04:19.600 (  2 FPS)	New setting type registered: FrooxEngine.LocomotionSettings
+11:04:19.631 (  3 FPS)	Created setting switch source: DeviceIDSettingSwitchSource
+11:04:19.634 (  3 FPS)	Created setting switch source: VR_ActiveSetttingSwitchSource
+11:04:19.639 (  3 FPS)	VoiceSettings OnActivated. LastActivatedUserId: , Current: M-51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky, MutePersistence: StartUnmuted
+11:04:19.644 (  3 FPS)	New setting type registered: FrooxEngine.LocaleSettings
+11:04:19.645 (  3 FPS)	New setting type registered: FrooxEngine.DashSettings
+11:04:19.645 (  3 FPS)	New setting type registered: FrooxEngine.NotificationSettings
+11:04:19.646 (  3 FPS)	New setting type registered: FrooxEngine.LegacyFeatureSettings
+11:04:19.646 (  3 FPS)	New setting type registered: FrooxEngine.LaserSettings
+11:04:19.647 (  3 FPS)	New setting type registered: FrooxEngine.NamePlateSettings
+11:04:19.647 (  3 FPS)	New setting type registered: FrooxEngine.GrabbingSettings
+11:04:19.647 (  3 FPS)	New setting type registered: FrooxEngine.FacetAnchorsSettings
+11:04:19.647 (  3 FPS)	New setting type registered: FrooxEngine.TrackingSmoothingSettings
+11:04:19.648 (  3 FPS)	New setting type registered: FrooxEngine.FullBodyTrackingSettings
+11:04:19.648 (  3 FPS)	New setting type registered: FrooxEngine.PhotoCaptureSettings
+11:04:19.648 (  3 FPS)	New setting type registered: FrooxEngine.EarmuffSettings
+11:04:19.648 (  3 FPS)	New setting type registered: FrooxEngine.MouseSettings
+11:04:19.649 (  3 FPS)	New setting type registered: FrooxEngine.MovementSettings
+11:04:19.655 (  3 FPS)	bHaptics detected - Head: False, Vest: False, LeftForearm: False, RightForearm: False, LeftFoot: False, RightFoot: False
+11:04:19.664 (  3 FPS)	Local settings loaded
+11:04:19.664 (  3 FPS)	BOOTSTRAP: Setting up core UI
+11:04:21.672 (  3 FPS)	User Atlan Role: , HasFingerTracking: True, HasEyeTracking: False, HasLipTracking: False
+11:04:23.228 (  3 FPS)	Has LeftTool: True, Has RightTool: True
+11:04:24.710 (  3 FPS)	BOOTSTRAP: Loading local home
+11:04:24.712 (  3 FPS)	Fetching home world record: resrec:///M-51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky/R-Home
+11:04:25.189 (  3 FPS)	Machine Home not found, creating a new one based on the appropriate template.
+11:04:25.190 (  3 FPS)	Creating a new Machine Home from the template URL: resrec:///G-Resonite/Worlds/HomeTemplates/Local
+11:04:25.339 (  3 FPS)	Requesting gather for: resdb:///93e61c29cbacff950aab2994016092563c8e1a857b6e507c58788a30afa0f091.brson
+11:04:25.341 (  3 FPS)	Got asset at path: C:/users/steamuser/Temp/Yellow Dog Man Studios/Resonite\Cache\nbiywj9evix3vmib, loading world
+11:04:25.699 (  3 FPS)	NetworkInitStart
+11:04:25.754 (  3 FPS)	LNL Listener for World  (Handle: 2. Focus: Background, State: Initializing, InitState: InitializingNetwork, FailState: None, FailReason: , IsDestroyed: False, IsAuthority: True, SyncTick: 1, StateVersion: 1, Time: 0, TimeSinceLastUpdate: 0,176, running on 0.0.0.0, port 34966
+11:04:25.774 (  3 FPS)	LNL Listener for World  (Handle: 2. Focus: Background, State: Initializing, InitState: InitializingNetwork, FailState: None, FailReason: , IsDestroyed: False, IsAuthority: True, SyncTick: 1, StateVersion: 1, Time: 0, TimeSinceLastUpdate: 0,196, running on 192.168.178.103, port 42226
+11:04:25.779 (  3 FPS)	LNL Listener for World  (Handle: 2. Focus: Background, State: Initializing, InitState: InitializingNetwork, FailState: None, FailReason: , IsDestroyed: False, IsAuthority: True, SyncTick: 1, StateVersion: 1, Time: 0, TimeSinceLastUpdate: 0,201, running on 100.104.144.1, port 58053
+11:04:25.784 (  3 FPS)	LNL Listener for World  (Handle: 2. Focus: Background, State: Initializing, InitState: InitializingNetwork, FailState: None, FailReason: , IsDestroyed: False, IsAuthority: True, SyncTick: 1, StateVersion: 1, Time: 0, TimeSinceLastUpdate: 0,206, running on 172.17.0.1, port 53820
+11:04:25.786 (  3 FPS)	Creating Listener for host SteamID 76561198113028286, channel: 0, sessionId: S-1a2b220a-acc1-4fdd-a631-c0bc16dc7dfa
+11:04:25.791 (  3 FPS)	Starting running world: 
+11:04:26.555 (  3 FPS)	Rebuild: 302,6127 ms, Nodes: 84, Groups: 33
+11:04:26.594 (  0 FPS)	Updated:  -> Userspace
+11:04:26.594 (  0 FPS)	Updated: 01.01.0001 00:00:00 -> 26.11.2024 10:04:25
+11:04:26.594 (  0 FPS)	Updated:  -> S-1a2b220a-acc1-4fdd-a631-c0bc16dc7dfa
+11:04:26.594 (  0 FPS)	Updated:  -> Atlan
+11:04:26.594 (  0 FPS)	Updated:  -> 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:26.848 (  0 FPS)	Rebuild: 0,0015 ms, Nodes: 0, Groups: 24
+11:04:26.984 (  0 FPS)	Running refresh on: OwnerId: M-51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky, Path: G-Resonite.Userspace.RadiantDash.Offset
+11:04:26.994 (  0 FPS)	Running refresh on: OwnerId: M-51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky, Path: G-Resonite.Userspace.RadiantDash.Scale
+11:04:26.995 (  0 FPS)	Running refresh on: OwnerId: M-51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky, Path: G-Resonite.Userspace.RadiantDash.Freeform
+11:04:28.023 (  0 FPS)	Unresolved count: 30, Processed in: 00:00:00.0028581
+11:04:28.026 (  0 FPS)	World Local Loaded in: 00:00:00.7472224
+11:04:28.033 (  0 FPS)	User Joined Local. Username: Atlan, UserID: , AllocID: 0, AllocIDstart: 1,  MachineID: 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:28.033 (  0 FPS)	User Spawn Local. Username: Atlan, UserID: , MachineID: 51k5n65amy3p346kw6wx6655e5sctfwskcmdzj1bjhskg7oyo6ky
+11:04:28.034 (  0 FPS)	Default Host Role: Admin
+11:04:28.035 (  0 FPS)	Spawning User Atlan (ID2E00)
+11:04:28.131 (  0 FPS)	User Atlan Role: Admin, HasFingerTracking: True, HasEyeTracking: False, HasLipTracking: False
+11:04:29.075 (  0 FPS)	Rebuild: 133,7952 ms, Nodes: 610, Groups: 372
+11:04:29.358 (  0 FPS)	Rebuild: 0,0094 ms, Nodes: 0, Groups: 347
+11:04:34.559 (  0 FPS)	Updated:  -> Local
+11:04:43.623 (  1 FPS)	BOOTSTRAP: Checking tutorial start. Force: False, Skip: True
+11:04:44.550 (  1 FPS)	BOOTSTRAP: Running automatic login
+11:04:46.106 (  2 FPS)	Instrumenting facet anchors with components. Waiting for all workspaces to load...
+11:04:46.269 (  2 FPS)	Initializing SignalR: UserLogin: U-1QvPhXL6vOC
+11:04:46.349 (  2 FPS)	BroadcastKey changed: U-1QvPhXL6vOC:398c726f-4567-4429-886b-3dae563d2ede
+11:04:46.350 (  2 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Userspace.RadiantDash.Offset
+11:04:46.350 (  2 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Userspace.RadiantDash.Scale
+11:04:46.350 (  2 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Userspace.RadiantDash.Freeform
+11:04:46.361 (  2 FPS)	Loading Private/RadiantDash/Screens for U-1QvPhXL6vOC
+11:04:46.370 (  2 FPS)	Loading Private/RadiantDash/TopBar for U-1QvPhXL6vOC
+11:04:46.370 (  2 FPS)	Loading Private/FacetAnchors/LeftHandTop/Default for U-1QvPhXL6vOC
+11:04:46.370 (  2 FPS)	Loading Private/FacetAnchors/LeftHandBottom/Default for U-1QvPhXL6vOC
+11:04:46.370 (  2 FPS)	Loading Private/FacetAnchors/RightHandTop/Default for U-1QvPhXL6vOC
+11:04:46.370 (  2 FPS)	Loading Private/FacetAnchors/RightHandBottom/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/LeftForearmTop/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/LeftForearmBottom/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/RightForearmTop/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/RightForearmBottom/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/ViewFront/Default for U-1QvPhXL6vOC
+11:04:46.371 (  2 FPS)	Loading Private/FacetAnchors/ViewBottom/Default for U-1QvPhXL6vOC
+11:04:46.374 (  2 FPS)	BroadcastKey changed: U-1QvPhXL6vOC:a61ef059-926a-4ccc-8e81-e8a00ef4a51a
+11:04:46.419 (  2 FPS)	Setting user agent to Resonite/2024.11.19.479
+11:04:46.420 (  2 FPS)	Using alternate websocket implementation
+11:04:46.482 (  2 FPS)	Connecting to SignalR (UserLogin: U-1QvPhXL6vOC)...
+11:04:46.605 (  2 FPS)	Updated:  -> U-1QvPhXL6vOC
+11:04:46.606 (  2 FPS)	Workspace Private/FacetAnchors/RightForearmTop/Default for U-1QvPhXL6vOC failed to load due to HTTP Code: NotFound, Message: 
+11:04:46.649 (  2 FPS)	Connecting SignalR websocket to: wss://api.resonite.com/hub?id=pcZ_jWknSp85X6cwDsar-A
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/RightForearmTop/Default initialized to default state. Reason: HTTP Record Retrieval.
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/RightForearmBottom/Default for U-1QvPhXL6vOC failed to load due to HTTP Code: NotFound, Message: 
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/RightForearmBottom/Default initialized to default state. Reason: HTTP Record Retrieval.
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/LeftForearmBottom/Default for U-1QvPhXL6vOC failed to load due to HTTP Code: NotFound, Message: 
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/LeftForearmBottom/Default initialized to default state. Reason: HTTP Record Retrieval.
+11:04:46.794 (  2 FPS)	Workspace Private/FacetAnchors/RightHandTop/Default for U-1QvPhXL6vOC failed to load due to HTTP Code: NotFound, Message: 
+11:04:46.795 (  2 FPS)	Workspace Private/FacetAnchors/RightHandTop/Default initialized to default state. Reason: HTTP Record Retrieval.
+11:04:46.795 (  2 FPS)	Workspace Private/FacetAnchors/RightHandBottom/Default for U-1QvPhXL6vOC failed to load due to HTTP Code: NotFound, Message: 
+11:04:46.795 (  2 FPS)	Workspace Private/FacetAnchors/RightHandBottom/Default initialized to default state. Reason: HTTP Record Retrieval.
+11:04:46.936 (  2 FPS)	Connected to SignalR (UserLogin: U-1QvPhXL6vOC)
+11:04:46.940 (  2 FPS)	Initializing contacts
+11:04:46.954 (  2 FPS)	SIGNALR: InitializeContacts
+11:04:47.032 (  3 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Favorites.Avatar
+11:04:47.041 (  3 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Favorites.Keyboard
+11:04:47.041 (  3 FPS)	Running refresh on: OwnerId: U-1QvPhXL6vOC, Path: G-Resonite.Favorites.Camera
+11:04:47.041 (
