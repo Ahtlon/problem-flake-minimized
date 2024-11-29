@@ -28,6 +28,8 @@
   hardware.graphics.enable = true;
   services.xserver.videoDrivers = [ "nvidia" ];
   hardware.nvidia.open = true;
+  hardware.nvidia.package = config.boot.kernelPackages.nvidiaPackages.beta;
+
 
   networking.hostName = "nixos"; # Define your hostname.
   networking.networkmanager.enable = true;  # Easiest to use and most distros use this by default.
@@ -65,7 +67,7 @@
   users.users.atlan = {
     isNormalUser = true;
     description = "atlan";
-    extraGroups = [ "networkmanager" "wheel" "admin" "dialout" ];
+    extraGroups = [ "networkmanager" "wheel" "admin" "dialout" "audio"];
   };
 
   programs.zsh.enable = true;
@@ -100,11 +102,16 @@
     layout = "de";
     variant = "";
   };
+
+  # rtkit is optional but recommended
+  security.rtkit.enable = true;
   services.pipewire = {
     enable = true;
     alsa.enable = true;
     alsa.support32Bit = true;
     pulse.enable = true;
+    # If you want to use JACK applications, uncomment this
+    #jack.enable = true;
   };
 
   #VR Section
@@ -151,7 +158,7 @@
         ],
         "runtime" :
         [
-          "${pkgs.opencomposite-vendored}/lib/opencomposite"
+          "${pkgs.opencomposite}/lib/opencomposite"
         ],
         "version" : 1
       }
